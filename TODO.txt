@@ -13,3 +13,4 @@ Rouge sur ond vert
 
 Technologies web :
 - Servlet & JSP
+- JSF
