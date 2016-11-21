@@ -14,3 +14,6 @@ Rouge sur ond vert
 Technologies web :
 - Servlet & JSP
 - JSF
+
+Application lourde :
+- TEchnologie Swing
