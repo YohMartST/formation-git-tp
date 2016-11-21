@@ -1,6 +1,16 @@
-Site à scanner:
--voyages-sncf
+Sites à scanner : 
+- voyages-sncf.com
 - ryanair
 
+Langage de prog :
+Java
 
-couleurs
+Serveur d'application :
+tomcat 7
+
+Couleurs de l'application :
+Rouge sur ond vert
+
+Technologies web :
+- Servlet & JSP
+- JSF
